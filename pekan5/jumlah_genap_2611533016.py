@@ -1,6 +1,6 @@
-# Buat file dengann nama jumlah_3016_genap_nim.py
+# Buat file dengann nama jumlah_genap_nim.py
 # Buat program untuk perulangan for dalam pythobn
-# Nama variabel ditambah 4 ddigit terakhir contoh:ulang_1234
+# Nama variabel ditambah 4 digit terakhir contoh:ulang_1234
 # program ini menggunakan fungsi input()
 
 ulang_3016 = int(input("Masukkan nilai batas: "))
@@ -16,4 +16,4 @@ for i in range(1, ulang_3016 + 1):
         else:
             print(" = ", jumlah_3016, end="")
 print()
-print("jumlah_3016 = ", jumlah_3016)
+print("jumlah = ", jumlah_3016)
