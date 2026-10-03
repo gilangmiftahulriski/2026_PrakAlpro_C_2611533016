@@ -5,7 +5,7 @@
 
 ulang_3016 = int(input("Masukkan nilai batas: "))
 
-jumlah_3016_3016 = 0
+jumlah_3016 = 0
 for i in range(1, ulang_3016 + 1):
     if i % 2 ==0:
         print(i, end= " ")
